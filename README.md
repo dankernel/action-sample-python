@@ -1,5 +1,5 @@
 
-![example workflow name](https://github.com/smartx-blaize/action-sample-python/workflows/Python%20application/badge.svg)
+![example workflow name](https://github.com/dankernel/action-sample-python/workflows/Python%20application/badge.svg)
 
 # Run
 ```
